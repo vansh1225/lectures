@@ -1,5 +1,4 @@
 .stack-work/
-.vscode/
 .devcontainer/
 cs340.cabal
 stack*.yaml.lock
@@ -23,3 +22,6 @@ cabal.sandbox.config
 .#*
 *.code-workspace
 Temp.hs
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
